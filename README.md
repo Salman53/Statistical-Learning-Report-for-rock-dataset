@@ -57,3 +57,11 @@ Pore area and perimeter show strong positive correlation.
 Shape variable is positively skewed, with some outliers.
 
 Reservoir productivity is closely linked to permeability clusters.
+
+🚀 How to Run
+
+1. Clone this repository
+
+git clone https://github.com/salmansabir53/rock-statistical-learning.git
+
+Run the scripts in the /code folder or open the .Rmd file
