@@ -62,6 +62,6 @@ Reservoir productivity is closely linked to permeability clusters.
 
 1. Clone this repository
 
-git clone https://github.com/salmansabir53/rock-statistical-learning.git
+git clone https://github.com/Salman53/Statistical-Learning-Report-for-rock-dataset
 
 Run the scripts in the /code folder or open the .Rmd file
